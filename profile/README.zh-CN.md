@@ -1,6 +1,8 @@
 <p align="right"><a href="README.md">English</a> &nbsp; / &nbsp; <strong>简体中文</strong></p>
 
-# AIMIA 实验室
+<p align="center">
+  <a href="https://aimia-eai.github.io/zh/"><img src="https://raw.githubusercontent.com/AIMIA-EAI/.github/main/profile/assets/aimia-kalam-horizontal-white.png" width="500" alt="AIMIA 实验室 · 北京大学"></a>
+</p>
 
 <p align="center">
   <a href="https://aimia-eai.github.io/zh/"><strong>实验室主页 ↗</strong></a> &nbsp;&nbsp; · &nbsp;&nbsp;
